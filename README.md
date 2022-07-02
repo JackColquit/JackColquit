@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Luis Roberto Azaar Meza</h1>
-- 👀 I’m interested in chemistry and software
-- 🌱 I’m currently Python developer
+- 👀 I’m interested in chemistry related software; Master of Materials Science (M.M.S.) from UNAM.
+- 🌱 I’m currently Python developer; Bachelor of Computer Engineering(B.C.E.) from UAQ.
 - 💞️ I’m looking to collaborate on any project of sciences
 - 📫 How to reach me: robertoazaar@gmail.com
 
